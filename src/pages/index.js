@@ -1,0 +1,10 @@
+export {default as Login} from './connection/login.page';
+export {default as Home} from './home/home.page';
+export {default as About} from './about/about.page';
+export {default as MainLayout} from './layout/mainLayout.component';
+export {default as Produit} from './produit/produit.page';
+export {default as Creerproduit} from './produit/creer.produit.page';
+export {default as Categorie} from './categorie/categorie.page'
+export {default as Creercategorie} from './categorie/creer.categorie.page';
+export {default as Stock} from './stock/stock.page';
+export {default as Creerstock} from './stock/creer.stock.page';
